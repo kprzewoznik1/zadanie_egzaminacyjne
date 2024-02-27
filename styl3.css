@@ -1,0 +1,53 @@
+body{
+    font-family: Arial;
+}
+#baner, #stopka{
+    background-color: SaddleBrown;
+    color: white;
+    height: 100px;
+}
+#banerLewy, #stopkaLewa{
+    width: 55%;
+    font-size: 120%;
+}
+#banerSrodkowy, #stopkaSrodkowa{
+    width: 25%;
+}
+#banerPrawy, #stopkaPrawa{
+    width: 20%;
+    text-align: right;
+}
+#blokGlowny{
+    background-color: Snow;
+    padding: 70px;
+}
+a{
+    border: 2px dotted saddlebrown;
+    background-color: snow;
+    color: saddlebrown;
+    padding: 20px;
+    line-height: 100px;
+}
+ol{
+    list-style-type: lower-alpha
+}
+
+
+#banerLewy{
+    float: left;
+}
+#banerSrodkowy{
+    float: left;
+}
+#banerPrawy{
+    float: left;
+}
+#stopkaLewa{
+    float: left;
+}
+#stopkaSrodkowa{
+    float: left;
+}
+#stopkaPrawa{
+    float: left;
+}
